@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZhVw9LRlGo2RfHcTMAEjIBcIA65IoPML0pG6bC74O63KVWo/LTa5O7FBddKJj7vwwTp4Z+yUr9D+pJ+XbolMig==",
+  "success": true,
+  "projectFilePath": "C:\\Me\\MyProject\\WeatherForecast\\WeatherForecast\\WeatherForecast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Merve\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Merve\\.nuget\\packages\\restsharp\\107.3.0\\restsharp.107.3.0.nupkg.sha512",
+    "C:\\Users\\Merve\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
